@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="footer-inner">
         {/* Kiri: Copyright */}
         <div className="footer-section footer-copyright">
-          <span>© 2026 Kampus Nusantara</span>
+          <span>© 2026 Kampus Siang Malam</span>
         </div>
 
         {/* Tengah: Jam Layanan Info */}

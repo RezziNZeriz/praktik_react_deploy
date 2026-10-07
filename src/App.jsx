@@ -8,7 +8,7 @@ import campusDay from './assets/campus-landscape.png';
 import './App.css';
 
 /**
- * Komponen utama — Portal Login Kampus Nusantara.
+ * Komponen utama — Portal Login Kampus Siang Malam.
  * 
  * Layout: Split design
  * - Left: Hero section (headline + campus illustration)
@@ -98,7 +98,7 @@ export default function App() {
           <div className="hero-illustration">
             <img
               src={campusDay}
-              alt="Ilustrasi Gedung Kampus Nusantara"
+              alt="Ilustrasi Gedung Kampus Siang Malam"
               className="campus-image"
               loading="eager"
             />

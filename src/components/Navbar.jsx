@@ -21,7 +21,7 @@ export default function Navbar({ isDaytime, hours, minutes }) {
         </div>
         <div className="navbar-text">
           <span className="navbar-title">Jam Operasional</span>
-          <span className="navbar-subtitle">Portal Kampus Nusantara</span>
+          <span className="navbar-subtitle">Portal Kampus Siang Malam</span>
         </div>
       </div>
 
